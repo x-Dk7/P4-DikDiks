@@ -5,7 +5,13 @@
 
 Friday, December 11th (Week 1)
    Beginning: Create a website with our title and outline of the whole project
+   
    Midterm: Have some of the basic information of the Mario Games prepared and have the blueprint of our mini-game ready to code by the six week mark.
+   
    N@TM: Make sure we have our whole Mario Museum complete including: Embedded soundtracks, videos as well as the images; our mini-game must be completely done and ready for users          to play and have all the information needed for the website.
+   
+   Big Ticket Items: Our big ticket item will be the mini-game we're creating that can incorporate the data of the players which will be our most appealing item.
+   
    College Board:
-   Big Ticket Items: Our big ticket item will be the mini-game we're creating that acts out as a mario game which will be our most appealing item.
+   
+   CB Big Idea #3: Created a storyboard to consider our visuals of the website in mind.
