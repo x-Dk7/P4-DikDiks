@@ -15,6 +15,7 @@ Project Plan
    Big Ticket Items: Our big ticket item will be the mini-game we're creating that can store and show the data of the players which will be our most appealing item.
    
    Scrum Board Link (Trello): https://trello.com/b/dxzS31KB/weekly-planning-for-mario-museum
+   - Using padlet, we will be able to track big ticket items on our scrum board (trello). The padlet will be used to keep track of our goals for the week and will update as we work on the project. Our 2 main big ticket items are the leaderboard and data web scrapping.
    
    College Board: Our group will focus on creative development (We will achieve this through collaboration), data (We will achieve this by investigating computing innovations), algorithms and programming (We will do this through strings, abstraction, lists, and procedures), computing systems and networks (We will use the internet as our main network to gather info), and the impact of computing (Our program will be beneficial for those who would like to know more about the video game industry).
    
