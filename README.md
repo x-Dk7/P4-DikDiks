@@ -5,6 +5,7 @@
 
 Friday, December 11th (Week 1)
 Project Plan
+   
    Beginning: Create a website with our title and outline of the whole project
    
    Midterm: Have some of the basic information of the Mario Games prepared and have the blueprint of our mini-game ready to code by the six week mark.
