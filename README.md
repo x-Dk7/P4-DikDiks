@@ -4,6 +4,7 @@
     Our project will focus on the mainline Mario games. We are planning on making a website that contains soundtracks, gameplay, and info of each listed game. We plan on adding sprites to make the website and mini-game more appealing to the players, and we will collaborate together to make the website the best it can be. The selected games that we will be using in our website are: Super Mario 64, Mario Odyssey, Mario Galaxy, Mario Sunshine, and our own little Mini-game add-on. Our mini-game will include a character selection ranging from characters like Mario, Luigi, and Toad. I will be a timed game to see how many coins the user can grab in a certain interval of time within a restrained box that the player can jump around. There will be a leaderboard that will refresh after each player has played so it can list players’ highscores through a set database.
 
 Friday, December 11th (Week 1)
+Project Plan
    Beginning: Create a website with our title and outline of the whole project
    
    Midterm: Have some of the basic information of the Mario Games prepared and have the blueprint of our mini-game ready to code by the six week mark.
