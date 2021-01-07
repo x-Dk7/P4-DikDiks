@@ -28,3 +28,5 @@ Project Plan
    CB Big Idea #4: In order to set up a website on a rasberry pi server more efficiently, we will use NGINX. Link: https://www.raspberrypi.org/documentation/remote-access/web-server/nginx.md
    
    CB Big Idea #5: Our project will most likely have a greater impact outside of the classroom environment. We believe that those who want to know more about the Mario Brothers series, play fun games, or listen to iconic Mario music in the soundtrack will visit our website. Under each subsection of the website, we will include a link to the Youtube channel providing the music and gameplay as well as other websites that provide more in depth looks in the Mario series.
+   
+Mario Museum Repository: https://github.com/nguyenjacob/MarioMuseum
