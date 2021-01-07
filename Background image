@@ -1,2 +1,32 @@
-rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!DOCTYPE html>
+
+<html>
+  <body style="background-color:White;"
+    <head>
+        <title> | Home </title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    </head>
+    	<section class="showcase">
+			<div class="image-container">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/97232749913291606/51C83C4C53680E9598CFDA58592F7FBC41543809/" style="padding: 1%">
+			</div>
+      <div class="content" style="text-align:center">
+		
+			</div>
+
+		</section>
+
+    <body style="background: url(https://i.redd.it/6axfm8uck3oy.png) no-repeat; background-size: 100% 100% ; color: white;">
+
+    <section id="about">
+
+        <div class="container-fluid">
+
+            <div class="row justify-content-end" style="padding-top: 2%; padding-bottom: 2%; padding: 2%;">             
+
+                    
+                </div>
+
+            </div>
