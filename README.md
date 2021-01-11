@@ -10,7 +10,7 @@ Goals for this Week:
    
    Mustafa - 
    
-   Jason - 
+   Jason - Complete some code on a webpage dedicated to mario melodies with additional help or download mysql and set up a mario quiz.
    
    Dk -
    
