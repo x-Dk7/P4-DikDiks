@@ -14,7 +14,7 @@ Scrum Team Cards/Tickets for the Week:
    
    Jason - Complete some code on a webpage dedicated to mario melodies with additional help or download mysql and set up a mario quiz.
    
-   Dk -  I will try to figure out how to make the minigame for our Mario museum that includes code from HTML and Python.
+   Dk -  I will try to figure out how to make the minigame for our Mario museum that includes code from HTML and Python. Mainly focusing on figuring out how to implement user interaction with HTML and Python. I’m going to try and focus on making the mini-game that includes user interaction and data storage. I've been watching YouTube videos on how to implement user interaction with Python and HTML5 so our mini-game runs smoother and attracts more people to play it.
    
 
 Friday, December 11th (Week 1)
