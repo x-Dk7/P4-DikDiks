@@ -10,7 +10,7 @@ Scrum Team Cards/Tickets for the Week:
    Jacob - Make at least base subpage for the mario games that connect to the main homepage and have information on that mario game.
            Mario Museum Repository: https://github.com/nguyenjacob/MarioMuseum This repository has the code that I've been working on this week. With this code, I managed to                make different subpages for the 4 mario games as well as embedding each of the games' original soundtrack.
    
-   Mustafa - 
+   Mustafa - Make a Navigation Bar for the webpage
    
    Jason - Complete some code on a webpage dedicated to mario melodies with additional help or download mysql and set up a mario quiz.
    
