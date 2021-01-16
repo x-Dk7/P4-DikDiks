@@ -4,9 +4,11 @@
     Our project will focus on the mainline Mario games. We are planning on making a website that contains soundtracks, gameplay, and info of each listed game. We plan on adding sprites to make the website and mini-game more appealing to the players, and we will collaborate together to make the website the best it can be. The selected games that we will be using in our website are: Super Mario 64, Mario Odyssey, Mario Galaxy, Mario Sunshine, and our own little Mini-game add-on. It will be a timed game to see how many coins the user can grab in a certain interval of time within a restrained box that the player can jump around. There will be a leaderboard that will refresh after each player has played so it can list players’ highscores through a set database.
 
 Monday, January 11th (Week 5)
-Goals for this Week:
 
-   Jacob - Make at least a base webpage for one of the mario games that connect to the main homepage and have some information on that mario game.
+Scrum Team Cards/Tickets for the Week:
+
+   Jacob - Make at least base subpage for the mario games that connect to the main homepage and have information on that mario game.
+           Mario Museum Repository: https://github.com/nguyenjacob/MarioMuseum This repository has the code that I've been working on this week. With this code, I managed to                make different subpages for the 4 mario games as well as embedding each of the games' original soundtrack.
    
    Mustafa - 
    
@@ -40,5 +42,3 @@ Project Plan
    CB Big Idea #4: In order to set up a website on a rasberry pi server more efficiently, we will use NGINX. Link: https://www.raspberrypi.org/documentation/remote-access/web-server/nginx.md
    
    CB Big Idea #5: Our project will most likely have a greater impact outside of the classroom environment. Those who want to know more about the Mario Brothers series, play fun games, or listen to Mario music in the soundtrack will visit our website. Under each subsection of the website, we will include a link to the Youtube channel providing the music and gameplay as well as other websites that provide more in depth looks in the Mario series.
-   
-Mario Museum Repository: https://github.com/nguyenjacob/MarioMuseum
