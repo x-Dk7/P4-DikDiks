@@ -12,7 +12,7 @@ Scrum Team Cards/Tickets for the Week:
    
    Mustafa - Make a Navigation Bar for the webpage
    
-   Jason - Download mysql and create some sort of data gathering code that is at least somewhat functional (Will try to gather it into the formatting of a table)
+   Jason - (19/20): I mostly dedicated my time to coding in MySQL and figuring out how to gather data someway through my code. This was my scrum board goal. I was somewhat successful.  https://docs.google.com/document/d/1bqTv_FH09Lna3JLCgFsxR-HSP2P9npcYaC5cuVIpaX4/edit?usp=sharing
    
    Dk -  I will try to figure out how to make the minigame for our Mario museum that includes code from HTML and Python. Mainly focusing on figuring out how to implement user interaction with HTML and Python. I’m going to try and focus on making the mini-game that includes user interaction and data storage. I've been watching YouTube videos on how to implement user interaction with Python and HTML5 so our mini-game runs smoother and attracts more people to play it.
    
