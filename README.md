@@ -8,14 +8,13 @@ Monday, January 11th (Week 5)
 Scrum Team Cards/Tickets for the Week:
 
    Jacob - Make at least base subpage for the mario games that connect to the main homepage and have information on that mario game.
-           Mario Museum Repository: https://github.com/nguyenjacob/MarioMuseum This repository has the code that I've been working on this week. With this code, I managed to                make different subpages for the 4 mario games as well as embedding each of the games' original soundtrack. In the README of the repository, there will be a short                video of the code for the webpage running and how it looks like.
+           Mario Museum Repository: https://github.com/nguyenjacob/MarioMuseum This repository has the code that I've been working on this week. With this code, I managed to make different subpages for the 4 mario games as well as embedding each of the games' original soundtrack. In the README of the repository, there will be a short video of the code for the webpage running and how it looks like.
    
    Mustafa - Make a Navigation Bar for the webpage
    
    Jason - (19/20): I mostly dedicated my time to coding in MySQL and figuring out how to gather data someway through my code. This was my scrum board goal. I was somewhat successful.  https://docs.google.com/document/d/1bqTv_FH09Lna3JLCgFsxR-HSP2P9npcYaC5cuVIpaX4/edit?usp=sharing
    
-   Dk -  I will try to figure out how to make the minigame for our Mario museum that includes code from HTML and Python. Mainly focusing on figuring out how to implement user interaction with HTML and Python. I’m going to try and focus on making the mini-game that includes user interaction and data storage. I've been watching YouTube videos on how to implement user interaction with Python and HTML5 so our mini-game runs smoother and attracts more people to play it.
-   
+   Dk -  I will try to figure out how to make the minigame for our Mario museum that includes code from HTML and Python. Mainly focusing on figuring out how to implement user interaction with HTML and Python. I’m going to try and focus on making the mini-game that includes user interaction and data storage. I've been watching YouTube videos on how to implement user interaction with Python and HTML5 so our mini-game runs smoother and attracts more people to play it. (https://www.youtube.com/watch?v=4OX49nLNPEE & https://www.youtube.com/watch?v=H3Fn33lYuE0)
 
 Friday, December 11th (Week 1)
 Project Plan
