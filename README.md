@@ -7,7 +7,7 @@ Monday, January 11th (Week 5)
 
 Scrum Team Cards/Tickets for the Week:
 
-   Jacob (20/20) - Make at least base subpage for the mario games that connect to the main homepage and have information on that mario game. Mario Museum Repository: https://github.com/nguyenjacob/MarioMuseum This repository has the code that I've been working on this week. With this code, I managed to make different subpages for the 4 mario games as well as embedding each of the games' original soundtrack. In the README of the repository, there will be a short video of the code for the webpage running and how it looks like.
+   Jacob (20/20) - Make at least base subpage for the mario games that connect to the main homepage and have information on that mario game. Mario Museum Repository: https://github.com/nguyenjacob/MarioMuseum This repository has the code that I've been working on this week. With this code, I managed to make different subpages for the 4 mario games as well as embedding each of the games' original soundtrack. https://www.youtube.com/watch?v=2PCOS9khjjs Video of my code deployment.
    
    Mustafa (16/20) - Make a Navigation Bar for the webpage
    
