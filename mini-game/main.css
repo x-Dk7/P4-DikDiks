@@ -35,7 +35,7 @@ body {
 }
 
 .frame {
-   /* This is just for Pen decoration */
+   /* This is just for scene decoration */
    width: calc(var(--pixel-size) * 160);
    height: calc(var(--pixel-size) * 144);
    outline: var(--pixel-size) solid #fff;
