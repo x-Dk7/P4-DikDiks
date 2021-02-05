@@ -5,6 +5,9 @@
 
 Monday, Febuary 1st (Week 8)- Completing Tickets and Easter Egg Week
    
+   Scrum Team Ticket Easter Egg:
+https://drive.google.com/drive/u/1/folders/1k_rSL0ymYuVuYsz_izkWtemtc8uZFqee
+   
    Jacob - I tried to point the domain name to the website hosting, but I am still struggling a little. I obtained the Amazon Web Service to try and run our website online which can run the code.
 
 College Board Requirements Big idea 4: Computer Systems and Netweorks - The Internet |||||
@@ -34,9 +37,6 @@ College Board Requirements Big idea 4: Computer Systems and Netweorks - The Inte
   College Board Requirements: Big Idea 1- Program Function and Purpose
   
   Code - https://github.com/x-Dk7/P4-DikDiks/tree/main/mini-game
-
-Scrum Team Ticket Easter Egg:
-https://drive.google.com/drive/u/1/folders/1k_rSL0ymYuVuYsz_izkWtemtc8uZFqee
 
 Monday, January 11th (Week 5)
 
