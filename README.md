@@ -5,8 +5,8 @@
 
 Monday, Febuary 1st (Week 8)- Completing Tickets and Easter Egg Week
    
-   Jacob - Accomplished obtaining a domain name, however I failed to try to point the domain name to the server hosting for our website. Signed up for AWS and have a EC2 Instant set up and ready to use for next week though. https://us-west-1.console.aws.amazon.com/ec2/v2/home?region=us-west-1#InstanceDetails:instanceId=i-0d4365a31b88a4402
-College Board Requirements Big idea 4: Computer Systems and Networks - The Internet |||||
+   Jacob - Accomplished obtaining a domain name, however I failed to try to point the domain name to the server hosting for our website. Signed up for AWS and have a EC2 Instant set up and ready to use for next week though. 
+College Board Requirements Big idea 4: Computer Systems and Networks - The Internet |
     Ticket - https://github.com/x-Dk7/P4-DikDiks/projects/1#card-54044458
 
    Mustafa - 
