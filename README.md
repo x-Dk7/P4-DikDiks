@@ -30,8 +30,10 @@ College Board Requirements Big idea 4: Computer Systems and Netweorks - The Inte
    Code - https://github.com/x-Dk7/P4-DikDiks/commit/87ceee51ad5fa79c3aafaec260e9f27866ead66e
   
    DK - Worked with TA to fix mini-game errors and try and get it running. Also working with Jason to see how I can implement his login code with my mini-game so we can implement data into the mini-game.
-   
-   Code - https://github.com/x-Dk7/P4-DikDiks/tree/main/mini-game
+  
+  College Board Requirements: Big Idea 1- Program Function and Purpose
+  
+  Code - https://github.com/x-Dk7/P4-DikDiks/tree/main/mini-game
 
 Scrum Team Ticket Easter Egg:
 https://drive.google.com/drive/u/1/folders/1k_rSL0ymYuVuYsz_izkWtemtc8uZFqee
