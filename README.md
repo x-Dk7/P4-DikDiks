@@ -8,7 +8,7 @@ Monday, Febuary 1st (Week 8)- Completing Tickets and Easter Egg Week
    Jacob - I tried to point the domain name to the website hosting, but I am still struggling a little. I obtained the Amazon Web Service to try and run our website online
 which can run the code.
 College Board Requirements Big idea 4: Computer Systems and Netweorks - The Internet
-Ticket - https://github.com/x-Dk7/P4-DikDiks/projects/1#card-54044458
+    Ticket - https://github.com/x-Dk7/P4-DikDiks/projects/1#card-54044458
 
    Mustafa - 
   
