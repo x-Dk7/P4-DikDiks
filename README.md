@@ -14,7 +14,6 @@ College Board Requirements Big idea 4: Computer Systems and Netweorks - The Inte
    Mustafa - This week I fully completed the navbar as well as updating the links and making the navbar easier to access all across the website. I updated the back to home button and I made the navbar accessable across all subpages on the website. 
    
    Collage Board Requirements: Big Idea 3- Algorthms and Coding- Algorithmic Efficiency (set of rules to obtain expected output from input)
-                               
                                Big Idea 1- Creative Development- Program Design and Development/ Correcting Errors
    
    Ticket - https://github.com/x-Dk7/P4-DikDiks/projects/1#card-52930716
