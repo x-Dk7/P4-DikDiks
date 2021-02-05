@@ -8,6 +8,7 @@ Monday, Febuary 1st (Week 8)
    Jacob - I tried to point the domain name to the website hosting, but I am still struggling a little. I obtained the Amazon Web Service to try and run our website online
 which can run the code.
 College Board Requirements Big idea 4: Computer Systems and Netweorks - The Internet
+
    Mustafa - 
   
    Jason - First goal for connecting MySQL to the website was moved to goals for next week. It was replaced with creating a light and dark mode button for my test website so I could implement it to the official one. 
