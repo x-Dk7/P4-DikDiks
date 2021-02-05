@@ -13,7 +13,7 @@ College Board Requirements Big idea 4: Computer Systems and Netweorks - The Inte
 
    Mustafa - This week I fully completed the navbar as well as updating the links and making the navbar easier to access all across the website. I updated the back to home button and I made the navbar accessable across all subpages on the website. 
    
-   Collage Board Requirements: Big Idea 3- Algorthms and Coding- Algorithmic Efficiency (set of rules to obtain expected output from input)
+   College Board Requirements: Big Idea 3- Algorthms and Coding- Algorithmic Efficiency (set of rules to obtain expected output from input)
                                Big Idea 1- Creative Development- Program Design and Development/ Correcting Errors
    
    Ticket - https://github.com/x-Dk7/P4-DikDiks/projects/1#card-52930716
@@ -22,6 +22,10 @@ College Board Requirements Big idea 4: Computer Systems and Netweorks - The Inte
           https://github.com/x-Dk7/P4-DikDiks/blob/main/Mario%20Musuem/templates/home.html
   
    Jason - First goal for connecting MySQL to the website was moved to goals for next week. It was replaced with creating a light and dark mode button for my test website so I could implement it to the official one. 
+   
+   College Board Requirements: Big Idea 3- Variables and algorithms
+   
+   Ticket - https://github.com/x-Dk7/P4-DikDiks/projects/1#card-54345712
   
    DK - Worked with TA to fix mini-game errors and try and get it running. Also working with Jason to see how I can implement his login code with my mini-game so we can implement data into the mini-game.
    
