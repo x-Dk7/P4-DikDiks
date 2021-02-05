@@ -5,16 +5,21 @@
 
 Monday, Febuary 1st (Week 8)- Completing Tickets and Easter Egg Week
    
-   Jacob - I tried to point the domain name to the website hosting, but I am still struggling a little. I obtained the Amazon Web Service to try and run our website online
-which can run the code.
+   Jacob - I tried to point the domain name to the website hosting, but I am still struggling a little. I obtained the Amazon Web Service to try and run our website online which can run the code.
+
 College Board Requirements Big idea 4: Computer Systems and Netweorks - The Internet |||||
-    Ticket - https://github.com/x-Dk7/P4-DikDiks/projects/1#card-54044458
+   
+   Ticket - https://github.com/x-Dk7/P4-DikDiks/projects/1#card-54044458
 
    Mustafa - This week I fully completed the navbar as well as updating the links and making the navbar easier to access all across the website. I updated the back to home button and I made the navbar accessable across all subpages on the website. 
+   
    Collage Board Requirements: Big Idea 3- Algorthms and Coding- Algorithmic Efficiency (set of rules to obtain expected output from input)
+                               
                                Big Idea 1- Creative Development- Program Design and Development/ Correcting Errors
+   
    Ticket - https://github.com/x-Dk7/P4-DikDiks/projects/1#card-52930716
-   Code - https://github.com/x-Dk7/P4-DikDiks/commit/399a1265f64df49549d6b3d6b4feccbd770d1396
+  
+  Code - https://github.com/x-Dk7/P4-DikDiks/commit/399a1265f64df49549d6b3d6b4feccbd770d1396
           https://github.com/x-Dk7/P4-DikDiks/blob/main/Mario%20Musuem/templates/home.html
   
    Jason - First goal for connecting MySQL to the website was moved to goals for next week. It was replaced with creating a light and dark mode button for my test website so I could implement it to the official one. 
