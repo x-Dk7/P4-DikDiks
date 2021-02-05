@@ -23,7 +23,9 @@ College Board Requirements Big idea 4: Computer Systems and Netweorks - The Inte
   
    Jason - First goal for connecting MySQL to the website was moved to goals for next week. It was replaced with creating a light and dark mode button for my test website so I could implement it to the official one. 
   
-   DK - 
+   DK - Worked with TA to fix mini-game errors and try and get it running. Also working with Jason to see how I can implement his login code with my mini-game so we can implement data into the mini-game.
+   
+   Code - https://github.com/x-Dk7/P4-DikDiks/tree/main/mini-game
 
 Scrum Team Ticket Easter Egg:
 https://drive.google.com/drive/u/1/folders/1k_rSL0ymYuVuYsz_izkWtemtc8uZFqee
