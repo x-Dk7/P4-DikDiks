@@ -26,6 +26,8 @@ College Board Requirements Big idea 4: Computer Systems and Netweorks - The Inte
    College Board Requirements: Big Idea 3- Variables and algorithms
    
    Ticket - https://github.com/x-Dk7/P4-DikDiks/projects/1#card-54345712
+   
+   Code - https://github.com/x-Dk7/P4-DikDiks/commit/87ceee51ad5fa79c3aafaec260e9f27866ead66e
   
    DK - Worked with TA to fix mini-game errors and try and get it running. Also working with Jason to see how I can implement his login code with my mini-game so we can implement data into the mini-game.
    
