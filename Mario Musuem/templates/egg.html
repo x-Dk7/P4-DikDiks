@@ -1,37 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <a href="http://127.0.0.1:5000/" class="button button1">Back Home</a>
+<!--Easter Egg Page-->
     <style>
 body {
     background-image: url("https://s1.1zoom.me/b2672/591/Easter_Holidays_Wood_planks_Eggs_Design_517399_1920x1080.jpg");
     background-color: #cccccc;
     }
-    .button {
-  border: black;
-  color: white;
-  padding: 16px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  transition-duration: 0.4s;
-  cursor: pointer;
-}
-.button1 {
-  background-color: white;
-  color: black;
-  border: 2px solid black;
-}
 </style>
     <meta charset="UTF-8">
     <title>Easter Egg</title>
-    <h1 style="color:black; background-color:white; border: solid black; text-align:center;"> You found our Easter Egg!</h1>
 </head>
 <body>
+<!-- Navbar -->
+{% extends "base.html" %}
+{% block content %}
+<h1 style="color:black; background-color:white; border: solid black; text-align:center;"> You found our Easter Egg!</h1>
 <h2 style="color black; background-color:white; border: solid black; text-align:center;"> These are our two pair share journals our group has worked on during the trimester.</h2>
+<!--Our Journal Links to embed-->
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQH7_3NtFnabGjTJVyXxBGicbtlCg9HPQmgmndTB2AsmPxLUFVgBQTwpH6gNjDvKg_Bj9IJnVtFgJgx/pub?embedded=true" height="1380" width="930"></iframe>
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQ-4S-211ci2FbuxxxhBnJXJo4UVffNCwOLXhcdBNaY1Ethbnqk3ImT_897UBuB7-PUKgccXi7JYYpU/pub?embedded=true" height="1380" width="930"></iframe>
+{% endblock %}
 </body>
 </html>
