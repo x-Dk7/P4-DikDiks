@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>base</title>
+    <!-- initialize bootstrap -->
+    <link rel="stylesheet" href = "https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity = "sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin = "anonymous">
+    <!-- style -->
+    <style>
+
+    </style>
+</head>
+<body>
+<nav class = "navbar navbar-expand navbar-dark bg-dark">
+    <!-- homepage -->
+    <a href = "/" class = "navbar-brand">Home</a>
+    <ul class = "navbar.content navbar-nav mr-auto">
+        <!-- Super Mario 64 -->
+        <li class = "nav-item">
+            <a href = "/sm64" class = "nav-link">SM64</a>
+        </li>
+        <!-- Mario Sunshine -->
+        <li class = "nav-item">
+            <a href = "/mariosunshine" class = "nav-link">Mario Sunshine</a>
+        </li>
+        <!-- Mario Galaxy -->
+        <li class = "nav-item">
+            <a href = "/galaxy" class = "nav-link">Mario Galaxy</a>
+        </li>
+        <!-- Mario Odyssey -->
+        <li class = "nav-item">
+            <a href = "/odyssey" class = "nav-link">Mario Odyssey</a>
+        </li>
+    </ul>
+    {% if insession == False %}
+    <li class = "navbar.content navbar-nav">
+        <a href = "/references" class = "nav-link"></a>
+    </li>
+    {% endif %}
+</nav>
+{% block content %}{% endblock %}
+</body>
+</html>
