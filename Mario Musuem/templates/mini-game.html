@@ -270,8 +270,8 @@ var map = document.querySelector(".map");
 //start in the middle of the map
 var x = 90;
 var y = 34;
-var held_directions = []; //State of which arrow keys we are holding down
-var speed = 1; //How fast the character moves in pixels per frame
+var held_directions = []; //arrow keys hold down
+var speed = 1; //character speed in pixels per frame
 
 const placeCharacter = () => {
 
@@ -289,7 +289,7 @@ const placeCharacter = () => {
     }
     character.setAttribute("walking", held_direction ? "true" : "false");
 
-    //Limits (gives the illusion of walls)
+    //walls
     var leftLimit = -8;
     var rightLimit = (16 * 11)+8;
     var topLimit = -8 + 32;
@@ -308,7 +308,7 @@ const placeCharacter = () => {
 }
 
 
-//Set up the game loop
+//game loop
 const step = () => {
     placeCharacter();
     window.requestAnimationFrame(() => {
@@ -319,7 +319,7 @@ step(); //kick off the first step!
 
 
 
-/* Direction key state */
+/* direction keys */
 const directions = {
     up: "up",
     down: "down",
@@ -349,7 +349,7 @@ document.addEventListener("keyup", (e) => {
 
 
 
-/* BONUS! Dpad functionality for mouse and touch */
+/* dpad functionality for mouse and touch */
 var isPressed = false;
 const removePressedAll = () => {
     document.querySelectorAll(".dpad-button").forEach(d => {
@@ -377,7 +377,7 @@ const handleDpadPress = (direction, click) => {
         document.querySelector(".dpad-"+direction).classList.add("pressed");
     }
 }
-//Bind a ton of events for the dpad
+//dpad
 document.querySelector(".dpad-left").addEventListener("touchstart", (e) => handleDpadPress(directions.left, true));
 document.querySelector(".dpad-up").addEventListener("touchstart", (e) => handleDpadPress(directions.up, true));
 document.querySelector(".dpad-right").addEventListener("touchstart", (e) => handleDpadPress(directions.right, true));
