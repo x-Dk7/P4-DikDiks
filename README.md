@@ -18,9 +18,9 @@ College Board: Variables and Assignments, Identifying and Correcting Errors, Str
 
 • I go more into detail for what I did this week in this Document: https://docs.google.com/document/d/1CMmhqbJqNRZFi44bpBjf__0rhUmJ9d3dYmPQZl3Js3g/edit?usp=sharing
 
-•For the future I plan on working with Jason on developing databases for our minigame that Dk made using the information given by Ms. Trish with what she presented to us earlier this week.
+•For the future I plan on working with Jason on developing databases for our minigame that Dk made using the information given by Ms. Trish with what she presented to us earlier this week. The college board ideas that I covered had to do with the Internet and going to the web for actual online use.
 
-Monday, Febuary 1st (Week 8)- Completing Tickets and Easter Egg Week
+**Monday, Febuary 1st (Week 8)- Completing Tickets and Easter Egg Week**
    
    Scrum Team Ticket Easter Egg:
 https://drive.google.com/drive/u/1/folders/1k_rSL0ymYuVuYsz_izkWtemtc8uZFqee
@@ -55,7 +55,7 @@ College Board Requirements Big idea 4: Computer Systems and Netweorks - The Inte
   
   Code - https://github.com/x-Dk7/P4-DikDiks/tree/main/mini-game
 
-Monday, January 11th (Week 5)
+**Monday, January 11th (Week 5)**
 
 Scrum Team Cards/Tickets for the Week:
 
@@ -67,7 +67,7 @@ Scrum Team Cards/Tickets for the Week:
    
    Dk (18/20) - I will try to figure out how to make the minigame for our Mario museum that includes code from HTML and Python. Mainly focusing on figuring out how to implement user interaction with HTML and Python. I’m going to try and focus on making the mini-game that includes user interaction and data storage. I've been watching YouTube videos on how to implement user interaction with Python and HTML5 so our mini-game runs smoother and attracts more people to play it. (https://www.youtube.com/watch?v=4OX49nLNPEE & https://www.youtube.com/watch?v=H3Fn33lYuE0) I have some code for the mini-game set up: (https://github.com/x-Dk7/P4-DikDiks/tree/main/mini-game), all I need to do is import a mario character sprite and add data storage like a leaderboard.
 
-Friday, December 11th (Week 1)
+**Friday, December 11th (Week 1)**
 Project Plan
    
    Beginning: Create a website with our title and outline of the whole project
