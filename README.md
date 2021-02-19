@@ -21,7 +21,7 @@ College Board: Variables and Assignments, Identifying and Correcting Errors, Str
 
 •For the future I plan on working with Jason on developing databases for our minigame that Dk made using the information given by Ms. Trish with what she presented to us earlier this week. The college board ideas that I covered had to do with the Internet and going to the web for actual online use.	•For the future I plan on working with Jason on developing databases for our minigame that Dk made using the information given by Ms. Trish with what she presented to us earlier this week. I struggled with the domain name connection, however that will be my goal for next week. The college board ideas that I covered had to do with the Internet and going to the web for actual online use.
 
-Monday, Febuary 1st (Week 8)- Completing Tickets and Easter Egg Week
+**Monday, Febuary 1st (Week 8)- Completing Tickets and Easter Egg Week**
    
    Scrum Team Ticket Easter Egg:
 https://drive.google.com/drive/u/1/folders/1k_rSL0ymYuVuYsz_izkWtemtc8uZFqee
