@@ -5,22 +5,18 @@
 
 README Review Guidance Week (for tickets):
 
-**Dk -** 
+Dk - 
 
-**Mustafa -** 
+Mustafa - For my ticket, I updated the subpages on the website. I embedded images and created a new subpage about us. Here is the Github link to the subpage: https://github.com/x-Dk7/P4-DikDiks/blob/main/Mario%20Musuem/templates/about_us.html. I followed the same format as the other htmls. I added sections to be filled out by my partners in lines 18-25. For my section, I included a small description of me and a photo. 
 
-**Jason -** For my ticket, I was to get SQLite(and get SQLAlchemy soon after); additionally, I planned to create a python file to help with generating a database. It was a large endeavor to get SQLite functioning properly through the use of terminal, however, the downloadable file in Mrs. Trish's GitHub made SQLite attainable.
+Jason - For my ticket, I was to get SQLite(and get SQLAlchemy soon after); additionally, I planned to create a python file to help with generating a database. It was a large endeavor to get SQLite functioning properly through the use of terminal, however, the downloadable file in Mrs. Trish's GitHub made SQLite attainable.
 https://docs.google.com/document/d/1qcERTPRy0NVvsVmKPNGhNWE1hTW1VjKBsAMscEZYLWU/edit?usp=sharing (Crossover inspiration will be discussed along with other details about ticket in google doc)
 Ticket Card:https://github.com/x-Dk7/P4-DikDiks/projects/1#card-54345771
 College Board: Variables and Assignments, Identifying and Correcting Errors, Strings
 
-**Jacob -** My ticket this week was working with Mr. Hennessey and getting the public IP address for the website to work online stated in my ticket here: https://github.com/x-Dk7/P4-DikDiks/projects/1#card-55203905
+Jacob -
 
-• I go more into detail for what I did this week in this Document where I go over the crossover inspiration, overview of what I did to get AWS to work and how I connected my EC2 instance with SSH: https://docs.google.com/document/d/1CMmhqbJqNRZFi44bpBjf__0rhUmJ9d3dYmPQZl3Js3g/edit?usp=sharing
-
-•For the future I plan on working with Jason on developing databases for our minigame that Dk made using the information given by Ms. Trish with what she presented to us earlier this week. I struggled with the domain name connection, however that will be my goal for next week. The college board ideas that I covered had to do with the Internet and going to the web for actual online use.
-
-**Monday, Febuary 1st (Week 8)- Completing Tickets and Easter Egg Week**
+Monday, Febuary 1st (Week 8)- Completing Tickets and Easter Egg Week
    
    Scrum Team Ticket Easter Egg:
 https://drive.google.com/drive/u/1/folders/1k_rSL0ymYuVuYsz_izkWtemtc8uZFqee
@@ -55,7 +51,7 @@ College Board Requirements Big idea 4: Computer Systems and Netweorks - The Inte
   
   Code - https://github.com/x-Dk7/P4-DikDiks/tree/main/mini-game
 
-**Monday, January 11th (Week 5)**
+Monday, January 11th (Week 5)
 
 Scrum Team Cards/Tickets for the Week:
 
@@ -67,7 +63,7 @@ Scrum Team Cards/Tickets for the Week:
    
    Dk (18/20) - I will try to figure out how to make the minigame for our Mario museum that includes code from HTML and Python. Mainly focusing on figuring out how to implement user interaction with HTML and Python. I’m going to try and focus on making the mini-game that includes user interaction and data storage. I've been watching YouTube videos on how to implement user interaction with Python and HTML5 so our mini-game runs smoother and attracts more people to play it. (https://www.youtube.com/watch?v=4OX49nLNPEE & https://www.youtube.com/watch?v=H3Fn33lYuE0) I have some code for the mini-game set up: (https://github.com/x-Dk7/P4-DikDiks/tree/main/mini-game), all I need to do is import a mario character sprite and add data storage like a leaderboard.
 
-**Friday, December 11th (Week 1)**
+Friday, December 11th (Week 1)
 Project Plan
    
    Beginning: Create a website with our title and outline of the whole project
