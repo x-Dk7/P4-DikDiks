@@ -9,8 +9,12 @@ README Review Guidance Week (for tickets):
 
 **Mustafa -** 
 For my ticket, I updated the subpages on the website: https://github.com/x-Dk7/P4-DikDiks/projects/1#card-55251397 I embedded images and created a new subpage about us. 
+
 Here is the Github link to the subpage: https://github.com/x-Dk7/P4-DikDiks/blob/main/Mario%20Musuem/templates/about_us.html. I followed the same format as the other htmls. I added sections to be filled out by my partners in lines 18-25. For my section, I included a small description of me and a photo. For the subsections, I added more info about the game itself, as well as embedding more videos and photos into the game as well. The code is between lines 20-end: https://github.com/x-Dk7/P4-DikDiks/blob/main/Mario%20Musuem/templates/galaxy.html 
-I was inspired to do the about us section from the Wildcats during our Crossover week and I updated the navigation bar for it as well, which is seen in the 1st 10 lines of code in  https://github.com/x-Dk7/P4-DikDiks/blob/main/Mario%20Musuem/templates/about_us.html. I'm currently still working on cleaning up mario 64 and mario sunshine subsections. My code exemplifies Variable and Assignments, Prrogram Design and Development, and The Internet for the College Board Requirements 
+
+I was inspired to do the about us section from the Wildcats during our Crossover week and I updated the navigation bar for it as well, which is seen in the 1st 10 lines of code in  https://github.com/x-Dk7/P4-DikDiks/blob/main/Mario%20Musuem/templates/about_us.html. I'm currently still working on cleaning up mario 64 and mario sunshine subsections. 
+
+My code exemplifies Variable and Assignments, Prrogram Design and Development, and The Internet for the College Board Requirements 
 
 
 **Jason -** For my ticket, I was to get SQLite(and get SQLAlchemy soon after); additionally, I planned to create a python file to help with generating a database. It was a large endeavor to get SQLite functioning properly through the use of terminal, however, the downloadable file in Mrs. Trish's GitHub made SQLite attainable.
