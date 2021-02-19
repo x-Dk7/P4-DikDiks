@@ -9,7 +9,10 @@ Dk -
 
 Mustafa - 
 
-Jason - Was a large endeavor to get SQLite functioning properly through the use of terminal, however, the downloadable file in Mrs. Trish's GitHub allowed me to have access to SQLite. Now, for my ticket I'm currently attempting to contribute to the website by creating a user database. https://docs.google.com/document/d/1qcERTPRy0NVvsVmKPNGhNWE1hTW1VjKBsAMscEZYLWU/edit?usp=sharing
+Jason - Was a large endeavor to get SQLite functioning properly through the use of terminal, however, the downloadable file in Mrs. Trish's GitHub made SQLite attainable. Now, for my ticket I'm currently attempting to contribute to the website by creating a user database. 
+https://docs.google.com/document/d/1qcERTPRy0NVvsVmKPNGhNWE1hTW1VjKBsAMscEZYLWU/edit?usp=sharing (Crossover inspiration will be discussed along with other details about ticket in google doc)
+Ticket Card:https://github.com/x-Dk7/P4-DikDiks/projects/1#card-54345771
+College Board: Variables and Assignments, Identifying and Correcting Errors, Strings
 
 Jacob -
 
