@@ -14,9 +14,9 @@ https://docs.google.com/document/d/1qcERTPRy0NVvsVmKPNGhNWE1hTW1VjKBsAMscEZYLWU/
 Ticket Card:https://github.com/x-Dk7/P4-DikDiks/projects/1#card-54345771
 College Board: Variables and Assignments, Identifying and Correcting Errors, Strings
 
-Jacob - My ticket this week was working with Mr. Hennessey and getting the public IP address for the website to work online stated in my ticket here: 
+Jacob - My ticket this week was working with Mr. Hennessey and getting the public IP address for the website to work online stated in my ticket here: https://github.com/x-Dk7/P4-DikDiks/projects/1#card-55203905
 I go more into detail for what I did this week in this Document: https://docs.google.com/document/d/1CMmhqbJqNRZFi44bpBjf__0rhUmJ9d3dYmPQZl3Js3g/edit?usp=sharing
-For the future I plan on working with Jason on developing databases using the information given by Ms. Trish with what she presented to us earlier this week.
+For the future I plan on working with Jason on developing databases for our minigame that Dk made using the information given by Ms. Trish with what she presented to us earlier this week.
 
 Monday, Febuary 1st (Week 8)- Completing Tickets and Easter Egg Week
    
