@@ -9,7 +9,7 @@ Dk -
 
 Mustafa - 
 
-Jason - 
+Jason - Was a large endeavor to get SQLite functioning properly through the use of terminal, however, the downloadable file in Mrs. Trish's GitHub allowed me to have access to SQLite. Now, for my ticket I'm currently attempting to contribute to the website by creating a user database. https://docs.google.com/document/d/1qcERTPRy0NVvsVmKPNGhNWE1hTW1VjKBsAMscEZYLWU/edit?usp=sharing
 
 Jacob -
 
