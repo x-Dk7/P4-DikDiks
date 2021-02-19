@@ -5,7 +5,7 @@
 
 README Review Guidance Week (for tickets):
 
-**Dk - **
+**Dk -**
 
 **Mustafa -** For my ticket, I updated the subpages on the website. I embedded images and created a new subpage about us. Here is the Github link to the subpage: https://github.com/x-Dk7/P4-DikDiks/blob/main/Mario%20Musuem/templates/about_us.html. I followed the same format as the other htmls. I added sections to be filled out by my partners in lines 18-25. For my section, I included a small description of me and a photo. For the subsections, I added more info about the game itself, as well as embedding more videos and photos into the game as well. The code is between lines 20-end: https://github.com/x-Dk7/P4-DikDiks/blob/main/Mario%20Musuem/templates/galaxy.html 
 
