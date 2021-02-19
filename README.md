@@ -6,6 +6,9 @@
 README Review Guidance Week (for tickets):
 
 **Dk -**
+For my ticket, I made the mini-game and I got it to work on the website. The mini-game includes user interaction and it allows players to travel around the map freely. http://54.193.127.79/game
+
+Here is the GitHub link to my mini-game code that I used to make the mini-game. https://github.com/x-Dk7/P4-DikDiks/blob/main/Mario%20Musuem/templates/mini-game.html I worked with Mr. Hennessey to fix my mini-game and embed CSS and JavaScript code into one HTML file. I added some parts to the main.py file and updated the GitHub and commited every time I changed and updated something useful to the mini-game. 
 
 **Mustafa -** 
 For my ticket, I updated the subpages on the website: https://github.com/x-Dk7/P4-DikDiks/projects/1#card-55251397 I embedded images and created a new subpage about us. 
