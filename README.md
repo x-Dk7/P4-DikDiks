@@ -5,17 +5,21 @@
 
 README Review Guidance Week (for tickets):
 
-Dk - 
+**Dk - **
 
-Mustafa - For my ticket, I updated the subpages on the website. I embedded images and created a new subpage about us. Here is the Github link to the subpage: https://github.com/x-Dk7/P4-DikDiks/blob/main/Mario%20Musuem/templates/about_us.html. I followed the same format as the other htmls. I added sections to be filled out by my partners in lines 18-25. For my section, I included a small description of me and a photo. For the subsections, I added more info about the game itself, as well as embedding more videos and photos into the game as well. The code is between lines 20-end: https://github.com/x-Dk7/P4-DikDiks/blob/main/Mario%20Musuem/templates/galaxy.html 
+**Mustafa -** For my ticket, I updated the subpages on the website. I embedded images and created a new subpage about us. Here is the Github link to the subpage: https://github.com/x-Dk7/P4-DikDiks/blob/main/Mario%20Musuem/templates/about_us.html. I followed the same format as the other htmls. I added sections to be filled out by my partners in lines 18-25. For my section, I included a small description of me and a photo. For the subsections, I added more info about the game itself, as well as embedding more videos and photos into the game as well. The code is between lines 20-end: https://github.com/x-Dk7/P4-DikDiks/blob/main/Mario%20Musuem/templates/galaxy.html 
 
 
-Jason - For my ticket, I was to get SQLite(and get SQLAlchemy soon after); additionally, I planned to create a python file to help with generating a database. It was a large endeavor to get SQLite functioning properly through the use of terminal, however, the downloadable file in Mrs. Trish's GitHub made SQLite attainable.
+**Jason -** For my ticket, I was to get SQLite(and get SQLAlchemy soon after); additionally, I planned to create a python file to help with generating a database. It was a large endeavor to get SQLite functioning properly through the use of terminal, however, the downloadable file in Mrs. Trish's GitHub made SQLite attainable.
 https://docs.google.com/document/d/1qcERTPRy0NVvsVmKPNGhNWE1hTW1VjKBsAMscEZYLWU/edit?usp=sharing (Crossover inspiration will be discussed along with other details about ticket in google doc)
 Ticket Card:https://github.com/x-Dk7/P4-DikDiks/projects/1#card-54345771
 College Board: Variables and Assignments, Identifying and Correcting Errors, Strings
 
-Jacob -
+**Jacob -** My ticket this week was working with Mr. Hennessey and getting the public IP address for the website to work online stated in my ticket here: https://github.com/x-Dk7/P4-DikDiks/projects/1#card-55203905
+
+• I go more into detail for what I did this week in this Document: https://docs.google.com/document/d/1CMmhqbJqNRZFi44bpBjf__0rhUmJ9d3dYmPQZl3Js3g/edit?usp=sharing	• I go more into detail for what I did this week in this Document where I go over the crossover inspiration, overview of what I did to get AWS to work and how I connected my EC2 instance with SSH: https://docs.google.com/document/d/1CMmhqbJqNRZFi44bpBjf__0rhUmJ9d3dYmPQZl3Js3g/edit?usp=sharing
+
+•For the future I plan on working with Jason on developing databases for our minigame that Dk made using the information given by Ms. Trish with what she presented to us earlier this week. The college board ideas that I covered had to do with the Internet and going to the web for actual online use.	•For the future I plan on working with Jason on developing databases for our minigame that Dk made using the information given by Ms. Trish with what she presented to us earlier this week. I struggled with the domain name connection, however that will be my goal for next week. The college board ideas that I covered had to do with the Internet and going to the web for actual online use.
 
 Monday, Febuary 1st (Week 8)- Completing Tickets and Easter Egg Week
    
