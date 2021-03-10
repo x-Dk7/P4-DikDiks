@@ -5,6 +5,14 @@
 
 **Our README Guidance for the Mario Museum**
 
+   ‣ Our goal for this project was to create a welcoming website that allow users to learn more about the Mario franchise, such as the games that have come out until today. Our website conatins a navbar that takes you to the most popular Mario games that you can learn about, as well as an entertaining Mini-game that we've worked on to resemble something close to a Mario game. That's not all either; we also have a database that allows our visitors to contribute to an updated datatable that gives them freedom to input newly-learned Mario characters and the date they were created for others to see.
+   
+   🅐 **Going more into depth with the Technicals:**
+   
+• The Minigame includes the use of JavaScript coding as well as CSS and HTML to give the minigame its look. Within the code, there is a DPAD that allows for user interaction in order to make the character move using the arrow keys on your keyboard and the background is designed and customized with different colors. Mario sprites are also imported to the character to make it feel like a Mario gamme.
+      
+• The database displays a form that allows the user to type a known Mario character name and the date they were created. In order to have this done, SQLite, SQLAlchemy, and some flask-related packages were used to effectively construct and design the web application for our current database. 
+
 **README Review Guidance Week (for tickets):**
 
 **Dk -**
