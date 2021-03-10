@@ -1,0 +1,12 @@
+{% extends 'base.html' %} {% block content %}
+<a href="/add-character"><h1>Add Mario Character</h1></a>
+<div id="grid-container"></div>
+
+<h2>Mario Characters</h2>
+<ul>
+    {% for mc in mar_char %}
+    <li>{{mc}}</li>
+    {% endfor %}
+</ul>
+
+{% endblock %}
