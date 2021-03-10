@@ -1,0 +1,29 @@
+{% extends 'base.html' %} {% block content %}
+
+<h1>Add Mario Character</h1>
+<div id="grid-container"></div>
+
+<h2>Enter your favorite character and the date created</h2>
+<form action="" method="POST">
+    <!-- <label for="name">Name:</label>
+    <input
+      id="name"
+      type="text"
+      name="name"
+      required
+      maxlength="50"
+      placeholder="Character name"
+    />
+    <input
+      type="text"
+      name="date_created"
+      maxlength="10"
+      placeholder="Date created"
+    />
+    <button type="submit" class="close button">Add Character</button> -->
+    {# This hidden_tag is a CSRF security feature. #} {{ form.hidden_tag() }} {{
+    form.p_name.label }} {{ form.p_name() }} {{ form.p_date() }} {{ form.submit()
+    }}
+</form>
+
+{% endblock %}
